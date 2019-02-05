@@ -72,8 +72,8 @@ export class RootService {
   post() {
     var url = "https://alexsurya.auth0.com/oauth/token";
     var datas = {
-      "client_id": "Mv1wwqppNLo8At0YbGLCYbwHlVNESdY7",
-      "client_secret": "rKsoEt3kmMS1PYGm7IBrRturmyl644nQ3LjZ-1UwkpUQTZigj1LPjfLVpA9MXa9D",
+      "client_id": "************************************",
+      "client_secret": "*******************************",
       "audience": "http://localhost:8080",
       "grant_type": "client_credentials"
     }
